@@ -1,0 +1,99 @@
+City: Toronto
+Attractions: CN Tower, Royal Ontario Museum, Distillery District
+Best Time: May–September
+Description: Toronto is the largest city in Canada and a major cultural and financial hub with diverse neighborhoods and vibrant city life.
+
+City: Vancouver
+Attractions: Stanley Park, Granville Island, Capilano Suspension Bridge
+Best Time: June–September
+Description: Vancouver is known for its stunning natural scenery, surrounded by mountains and ocean, making it ideal for outdoor activities.
+
+City: Montreal
+Attractions: Old Montreal, Mount Royal, Notre-Dame Basilica
+Best Time: May–October
+Description: Montreal blends European charm with modern culture, offering historic architecture, festivals, and a lively food scene.
+
+City: Calgary
+Attractions: Calgary Tower, Calgary Stampede, Banff National Park (nearby)
+Best Time: June–August
+Description: Calgary is known for its western culture and proximity to the Rocky Mountains, making it a gateway to outdoor adventures.
+
+City: Ottawa
+Attractions: Parliament Hill, Rideau Canal, National Gallery of Canada
+Best Time: May–September
+Description: Ottawa is Canada's capital city, rich in history and home to national museums and important landmarks.
+
+City: Quebec City
+Attractions: Château Frontenac, Old Quebec, Plains of Abraham
+Best Time: June–September (summer) or December–February (winter festivals)
+Description: Quebec City is famous for its historic European-style architecture and charming old town.
+
+City: Edmonton
+Attractions: West Edmonton Mall, Elk Island National Park, Art Gallery of Alberta
+Best Time: June–August
+Description: Edmonton is known for its festivals and one of the largest shopping malls in the world, along with a strong arts scene.
+
+City: Winnipeg
+Attractions: The Forks, Canadian Museum for Human Rights, Assiniboine Park
+Best Time: May–September
+Description: Winnipeg offers a mix of cultural attractions and historic sites with a strong arts and museum presence.
+
+City: Halifax
+Attractions: Halifax Waterfront, Peggy’s Cove, Maritime Museum of the Atlantic
+Best Time: June–October
+Description: Halifax is a coastal city known for its maritime history, scenic views, and fresh seafood.
+
+City: Victoria
+Attractions: Butchart Gardens, Inner Harbour, Royal BC Museum
+Best Time: March–September
+Description: Victoria, located on Vancouver Island, is known for its mild climate, gardens, and charming waterfront.
+
+City: St. John’s
+Attractions: Signal Hill, Quidi Vidi Village, Jellybean Row Houses
+Best Time: June–August (for icebergs and whales)
+Description: As North America's easternmost city, St. John's is famous for its colorful steep streets, rugged coastline, and a world-class music and pub scene on George Street.
+
+City: Charlottetown
+Attractions: Province House, Victoria Park, Anne of Green Gables sites (nearby)
+Best Time: June–September
+Description: The "Cradle of Confederation," this charming seaside capital features Victorian architecture, red-sand beaches nearby, and a deep-rooted history in Canadian politics.
+
+City: Fredericton
+Attractions: Beaverbrook Art Gallery, Officers' Square, Saint John River
+Best Time: June–October
+Description: New Brunswick’s capital is a riverside gem known for its vibrant craft beer scene, historic garrison district, and lush greenery.
+
+City: Niagara Falls
+Attractions: Horseshoe Falls, Clifton Hill, Niagara-on-the-Lake wineries
+Best Time: June–August (peak weather) or September–October (wine harvest)
+Description: A world-famous destination dominated by the powerful waterfalls, complemented by a kitschy entertainment district and a sophisticated nearby wine region.
+
+City: Saskatoon
+Attractions: Remai Modern Art Gallery, Meewasin Valley Trails, Wanuskewin Heritage Park
+Best Time: June–August
+Description: Known as the "City of Bridges," Saskatoon offers a surprisingly hip arts scene and beautiful prairie landscapes along the South Saskatchewan River.
+
+City: Kelowna
+Attractions: Okanagan Lake, Myra Canyon Trestles, Mission Hill Winery
+Best Time: June–September (summer sun) or January–March (skiing)
+Description: Located in the heart of wine country, Kelowna is a playground for fruit picking, water sports, and exploring over 40 nearby vineyards.
+
+City: Whistler
+Attractions: Whistler Blackcomb, Peak 2 Peak Gondola, Lost Lake
+Best Time: December–March (skiing) or June–August (mountain biking/hiking)
+Description: A world-class resort town that hosted the 2010 Winter Olympics, offering year-round alpine adventures and a lively pedestrian village.
+
+City: Yellowknife
+Attractions: Aurora Village (Northern Lights), Old Town, Great Slave Lake
+Best Time: August–September or December–March (for Aurora Borealis)
+Description: The capital of the Northwest Territories is one of the world's best places to view the Northern Lights, blending frontier history with modern Indigenous culture.
+
+City: Whitehorse
+Attractions: Miles Canyon, S.S. Klondike National Historic Site, Takhini Hot Pools
+Best Time: June–August (Midnight Sun) or January–March (Aurora)
+Description: Known as the "Wilderness City," Whitehorse serves as the gateway to the Yukon's vast landscapes and gold rush history.
+
+City: Iqaluit
+Attractions: Sylvia Grinnell Territorial Park, Nunatta Sunakkutaangit Museum, Frobisher Bay
+Best Time: July–August (for mild weather and Arctic flowers)
+Description: The capital of Nunavut offers a rare look at Inuit culture, Arctic wildlife, and the stark, beautiful landscapes of Canada’s newest territory.
